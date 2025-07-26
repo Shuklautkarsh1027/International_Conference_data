@@ -1,5 +1,5 @@
 
-# 🧱 Additive Manufacturing: Visualizing Process Parameters
+#  Additive Manufacturing: Visualizing Process Parameters
 
 ## Objective
 Use Python-based analytics to analyze and visualize process parameters affecting porosity and structure in 3D printed refractory samples.
